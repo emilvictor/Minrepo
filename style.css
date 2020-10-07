@@ -1,4 +1,9 @@
 
+body {
+    background-color: lightslategray;
+}
+
 img {
 border-radius: 50%;
+width: 40%;
 }
