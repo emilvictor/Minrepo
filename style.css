@@ -3,7 +3,13 @@ body {
     background-color: lightslategray;
 }
 
+h1{
+    margin-left: 550px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 img {
+    margin-left: 480px;
 border-radius: 50%;
-width: 40%;
+width: 250px;
 }
